@@ -17,5 +17,6 @@ valor_hora = int(input("Ingresa valor de hora: "))
 
 
 
-print(f"Holiiiii {nombre} tu salario es de: {calcular_salario(horas,valor_hora)}")
+print(f"Hola  {nombre} tu salario es de: {calcular_salario(horas,valor_hora)}")
+
 
